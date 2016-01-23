@@ -1,0 +1,7 @@
+- get two players on the same platform
+
+- instead of telling enemy/enemyPrefab to walk back and forth use sockets to control enemy
+
+- push player movements and actions
+
+- for now work on enemy movement, then think about attack strategies
